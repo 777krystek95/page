@@ -126,7 +126,7 @@ header .burger:hover .three {
 header .hero-img {
   position: relative;
   height: 100vh;
-  background-image: url(img/zakynthos1920.jpg);
+  background-image: url(zakynthos1920.jpg);
   background-size: cover;
   background-position: center;
   z-index: 0;
