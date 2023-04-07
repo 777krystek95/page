@@ -126,7 +126,7 @@ header .burger:hover .three {
 header .hero-img {
   position: relative;
   height: 100vh;
-  background-image: url(/img/zakynthos1920.jpg);
+  background-image: url(img/zakynthos1920.jpg);
   background-size: cover;
   background-position: center;
   z-index: 0;
@@ -197,7 +197,7 @@ header .header-arrow::before {
 .sectionCard {
   position: relative;
   height: 90vh;
-  background-image: url(/img/greece_flag.jpg);
+  background-image: url(img/greece_flag.jpg);
   background-size: cover;
   background-position: center;
   z-index: 0;
@@ -277,16 +277,16 @@ header .header-arrow::before {
   transform: scale(1.05);
 }
 .cards .card-one {
-  background-image: url(/img/santorini_640.jpg);
+  background-image: url(img/santorini_640.jpg);
 }
 .cards .card-two {
-  background-image: url(/img/Ateny_640.jpg);
+  background-image: url(img/Ateny_640.jpg);
 }
 .cards .card-three {
-  background-image: url(/img/zakynthos_cave_6640.jpg);
+  background-image: url(img/zakynthos_cave_6640.jpg);
 }
 .cards .card-four {
-  background-image: url(/img/Mykonos_640.jpg);
+  background-image: url(img/Mykonos_640.jpg);
   background-position: right;
 }
 
@@ -338,7 +338,7 @@ header .header-arrow::before {
 .historySection {
   position: relative;
   height: 100%;
-  background-image: url(/img/HistoricalParteon_1280.jpg);
+  background-image: url(img/HistoricalParteon_1280.jpg);
   background-size: cover;
   background-position: center;
   z-index: 0;
